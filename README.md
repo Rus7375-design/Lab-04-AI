@@ -1,0 +1,3 @@
+AI use declaration
+
+I used Claude an AI chat assistant to help with this lab. I used it to understand the structure of the assignment and the requirements for each part, to find where each answer goes in the notebook, and to help with the wording of my predictions and written answers. I ran all the code cells in Google Colab myself, and all the numbers in the notebook come from my own run. I wrote Predict 1 before running the OCR cell and Predict 2 before running the model, but I used AI help to word them, and I edited the text myself. The conclusions about the language effect, the arithmetic checks and the pipeline are based on the results I saw in Part 4. I checked my answers against the notebook output before submitting.
